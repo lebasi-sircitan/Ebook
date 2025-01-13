@@ -37,7 +37,7 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | "Prompt"                                                                                                                                                                                                                                                         
+|   Ação   | "prompt"                                                                                                                                                                                                                                                         
 | :------: | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |  título  | Crie um título de um ebook sobre o tema criação de aplicativo, o ebook é do nicho de negócios e busca de emprego, o título deve ser épico e curto, e tenha uma temática de inclusão social. O nome do app é MATCH |                                             
 | conteúdo | Faça um texto para o ebook Match: Conectando Talentos e Empresas, com foco em validação de hipóteses, listando os principais passos para a pesquisa {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
