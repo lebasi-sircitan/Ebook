@@ -1,6 +1,6 @@
 Projeto EBOOK Gerado por I.A.s
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+
 </p>
 
 
@@ -29,8 +29,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://(https://copilot.cloud.microsoft/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
