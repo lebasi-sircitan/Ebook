@@ -25,7 +25,7 @@ Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
-<a href="https://github.com/lebasi-sircitan/Ebook/blob/3c1ee1f9395650346cd9140273c5c00b007d63a0/e-Book%20Match.pptx">    📕Clique aqui para ler</a>
+<a href="https://github.com/lebasi-sircitan/Ebook/blob/3c1ee1f9395650346cd9140273c5c00b007d63a0/e-Book%20Match.pptx">    
 
 ## 💻 Tecnologias utilizadas no projeto
 
