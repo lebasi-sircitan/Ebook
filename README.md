@@ -29,7 +29,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Copilot](https://(https://copilot.cloud.microsoft/)
+- [Copilot](https://copilot.cloud.microsoft/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -37,22 +37,20 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
+|   Ação   | prompt                                                                                                                                                                                                                                                           
+| :------: | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  título  | Crie um título de um ebook sobre o tema criação de aplicativo, o ebook é do nicho de negócios e busca de emprego, o título deve ser épico e curto, e tenha uma temática de inclusão social. O nome do app é MATCH                                                
+| conteúdo | Faça um texto para o ebook Match: Conectando Talentos e Empresas, com foco em validação de hipóteses, listando os principais passos para a pesquisa {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
+| conteúdo | Considerando que as hipóteses foram validadas, como se fosse um UX Senior, liste os principais passos para a criação do protótipo {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Ação  | prompt                                                                                 |
+| conteúdo | Com o protótipo pronto, me ajude a preparar o pitch {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
+| imagem   | Estou elaborando uma apresentação sobre um projeto de criação de um aplicativo para busca de empregos. Crie uma imagem para um dos slides que tem o título: "Resultados Esperados"|
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Copilot
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
