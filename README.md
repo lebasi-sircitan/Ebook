@@ -50,10 +50,7 @@ ChatGPT：
 - Conteúdo gerado via Copilot
 - Imagens geradas via Copilot
 
-## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
